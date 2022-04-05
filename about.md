@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 99
 ---
 
-This is the `cpptok` documentation website. 
+This is the `libscript` documentation website. 
 
 It was generated using Jekyll and the Just the Docs template.
 
